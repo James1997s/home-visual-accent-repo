@@ -1,0 +1,25 @@
+Package: com.manus.homevisualaccent
+Version: 1.5.6
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 6328
+Depends: firmware (>= 15.6), mobilesubstrate, preferenceloader, com.spark.snowboard, com.spark.snowboard.ui
+Recommends: com.spark.snowboard.statusbar
+Filename: debs/com.manus.homevisualaccent_1.5.6_iphoneos-arm64.deb
+Size: 3942300
+MD5sum: 3eac6d0f29359c40f36d2df3f3244cdd
+SHA1: 78f1d73a1a3a957d74ecaf2b15a6174373ad74a7
+SHA256: 4409b3d1ba09e6b4c6f05b6109c2e66aaf56ad94ea91eccfd1ed9d4ac5288693
+Section: Tweaks
+Priority: optional
+Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated lock-screen runner, dock, status bar, and lock-screen clock
+ Home Visual Accent provides a configurable PC-style dock, white status-bar styling,
+ flat Control Centre glyph assets, monochrome Nothing Snow Leopard icons, a white-first
+ high-contrast SnowBoard UI asset set, creative volume and silent-mode HUDs, an opt-in
+ lower-half lock-screen runner with persistent best-score tracking and a SpringBoard
+ idle-timer assertion active only during a run, concrete passcode keypad gating, and
+ cover-sheet-dismissal teardown, plus a minimal iOS 15 lock-screen clock overlay. Live
+ Control Center restyling is intentionally omitted for iOS 15.8.6 compatibility.
+Author: Manus AI
+Name: Home Visual Accent
+
