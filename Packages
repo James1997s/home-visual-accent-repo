@@ -1,15 +1,25 @@
-Package: com.manus.homevisualaccent
-Version: 1.5.6
+Package: com.example.speciallock
+Name: SpecialLock
+Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
+Maintainer: Local Build
+Author: Local Build
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit, preferenceloader
+Replaces: com.example.lockplus15
+Conflicts: com.example.lockplus15
 Architecture: iphoneos-arm64
+Version: 0.1.0-4+debug
+Installed-Size: 480
+Filename: debs/com.example.speciallock_0.1.0-4+debug_iphoneos-arm64.deb
+Size: 84994
+MD5sum: 463d7f12e8822f4f6fd9f4b56490cbdb
+SHA1: 7067bb273de878308cbe5be3dd97dcc9cd574541
+SHA256: 39642c16a7988588eb55d82d762cdfb0ebbe4486e25b2acc75f681c40f27013c
+
+Package: com.manus.homevisualaccent
+Name: Home Visual Accent
 Maintainer: Manus AI
-Installed-Size: 6328
-Depends: firmware (>= 15.6), mobilesubstrate, preferenceloader, com.spark.snowboard, com.spark.snowboard.ui
-Recommends: com.spark.snowboard.statusbar
-Filename: debs/com.manus.homevisualaccent_1.5.6_iphoneos-arm64.deb
-Size: 3942300
-MD5sum: 3eac6d0f29359c40f36d2df3f3244cdd
-SHA1: 78f1d73a1a3a957d74ecaf2b15a6174373ad74a7
-SHA256: 4409b3d1ba09e6b4c6f05b6109c2e66aaf56ad94ea91eccfd1ed9d4ac5288693
+Author: Manus AI
 Section: Tweaks
 Priority: optional
 Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated lock-screen runner, dock, status bar, and lock-screen clock
@@ -20,20 +30,21 @@ Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated l
  idle-timer assertion active only during a run, concrete passcode keypad gating, and
  cover-sheet-dismissal teardown, plus a minimal iOS 15 lock-screen clock overlay. Live
  Control Center restyling is intentionally omitted for iOS 15.8.6 compatibility.
-Author: Manus AI
-Name: Home Visual Accent
+Depends: firmware (>= 15.6), mobilesubstrate, preferenceloader, com.spark.snowboard, com.spark.snowboard.ui
+Recommends: com.spark.snowboard.statusbar
+Architecture: iphoneos-arm64
+Version: 1.5.6
+Installed-Size: 6328
+Filename: debs/com.manus.homevisualaccent_1.5.6_iphoneos-arm64.deb
+Size: 3942300
+MD5sum: 3eac6d0f29359c40f36d2df3f3244cdd
+SHA1: 78f1d73a1a3a957d74ecaf2b15a6174373ad74a7
+SHA256: 4409b3d1ba09e6b4c6f05b6109c2e66aaf56ad94ea91eccfd1ed9d4ac5288693
 
 Package: com.manus.retro3dglyphs.blue
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Name: Retro 3D Neon Blue Glyphs
 Maintainer: Manus AI
-Installed-Size: 4720
-Depends: firmware (>= 15.6), com.spark.snowboard
-Filename: debs/com.manus.retro3dglyphs.blue_1.0.0_iphoneos-arm64.deb
-Size: 1738046
-MD5sum: 99e5c1e04659386c646756aabaa002bb
-SHA1: 797bbdbdf6138ce538eb31a38dce0ba382fa6bfa
-SHA256: 49ca5175c014b32a92eedfd8262b06e30a43cd8b6dcefebef9c84effa3b804bd
+Author: Manus AI
 Section: Themes
 Priority: optional
 Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
@@ -41,20 +52,20 @@ Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
  system applications, popular third-party apps, jailbreak utilities, and user-provided
  bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
  without an icon background tile.
-Author: Manus AI
-Name: Retro 3D Neon Blue Glyphs
+Depends: firmware (>= 15.6), com.spark.snowboard
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 4720
+Filename: debs/com.manus.retro3dglyphs.blue_1.0.0_iphoneos-arm64.deb
+Size: 1738046
+MD5sum: 99e5c1e04659386c646756aabaa002bb
+SHA1: 797bbdbdf6138ce538eb31a38dce0ba382fa6bfa
+SHA256: 49ca5175c014b32a92eedfd8262b06e30a43cd8b6dcefebef9c84effa3b804bd
 
 Package: com.manus.retro3dglyphs.red
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Name: Retro 3D Neon Red Glyphs
 Maintainer: Manus AI
-Installed-Size: 4800
-Depends: firmware (>= 15.6), com.spark.snowboard
-Filename: debs/com.manus.retro3dglyphs.red_1.0.0_iphoneos-arm64.deb
-Size: 1801932
-MD5sum: 009bfdcd505560b9c13eb104a6c87981
-SHA1: 116cc818b90e038b9a43242b33075b542565d85c
-SHA256: 0dd4223ee3a6f46703eb23e7843e48b274a9b3ab659e1765213fc4a58923d876
+Author: Manus AI
 Section: Themes
 Priority: optional
 Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
@@ -62,23 +73,12 @@ Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
  system applications, popular third-party apps, jailbreak utilities, and user-provided
  bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
  without an icon background tile.
-Author: Manus AI
-Name: Retro 3D Neon Red Glyphs
-
-Package: com.example.speciallock
-Version: 0.1.0-1+debug
+Depends: firmware (>= 15.6), com.spark.snowboard
 Architecture: iphoneos-arm64
-Maintainer: Local Build
-Installed-Size: 456
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Filename: debs/com.example.speciallock_0.1.0-1+debug_iphoneos-arm64.deb
-Size: 78322
-MD5sum: 0c10cabd4d3e3867952be6b711eb494d
-SHA1: 21d33e593012364b0545896c6ccfad50a5052e51
-SHA256: e305b32729fd6e9354ef668d7b379b36f1b262d62cb15fee79a49970435a89fd
-Section: Tweaks
-Priority: optional
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Author: Local Build
-Name: SpecialLock
-
+Version: 1.0.0
+Installed-Size: 4800
+Filename: debs/com.manus.retro3dglyphs.red_1.0.0_iphoneos-arm64.deb
+Size: 1801932
+MD5sum: 009bfdcd505560b9c13eb104a6c87981
+SHA1: 116cc818b90e038b9a43242b33075b542565d85c
+SHA256: 0dd4223ee3a6f46703eb23e7843e48b274a9b3ab659e1765213fc4a58923d876
