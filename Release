@@ -3,13 +3,13 @@ Label: Home Visual Accent
 Suite: stable
 Codename: home-visual-accent
 Version: 1.0
-Date: Wed, 26 Aug 2026 12:50:46 GMT
+Date: Wed, 26 Aug 2026 21:45:00 GMT
 Architectures: iphoneos-arm64
 Components: 
 Description: Home Visual Accent rootless iOS tweak and theme repository
 MD5Sum:
- 55d3f1d0f008a6eff47c901d3701285b             3717 Packages
- b2a35c8257c77063303c579a9ff55139             1529 Packages.gz
+ dad0cceb8303ca2253c0bdd87de47d81             6889 Packages
+ ef29b5b48313af1e6ce1851a19ad83bf             1803 Packages.gz
 SHA256:
- 87aafe676646bede2f0d83d37791df47fcdfe81f550359ba56b6963ad1adf9fc             3717 Packages
- a0a0f20d2253376878a90c5a112089cd8bc606f33cee80a242b9b216200ef445             1529 Packages.gz
+ 75ce36f2478f1f57eca84d399ce737a32a8e5b4063d8a443e9c8349325f12ada             6889 Packages
+ 6c9d137ca3e9e3ae82514e6aa9037f39aa577fce278eb555a1e8b5e69391121e             1803 Packages.gz
