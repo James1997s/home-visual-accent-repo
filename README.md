@@ -9,7 +9,7 @@ This is the public APT repository for **Home Visual Accent**, a rootless visual 
 Open **Sileo**, choose **Sources**, tap **+**, and enter:
 
 ```text
-https://james1997s.github.io/home-visual-accent-repo/
+https://raw.githubusercontent.com/James1997s/home-visual-accent-repo/main/
 ```
 
 Refresh the source, then search for **Home Visual Accent** and install or upgrade it.
@@ -36,4 +36,4 @@ The v1.5.6 package SHA-256 is:
 
 ## Repository maintenance
 
-The repository uses the standard flat APT layout. Its `Packages`, `Packages.gz`, and `Release` files are generated from the `.deb` in `debs/` and are served through GitHub Pages.
+The repository uses the standard flat APT layout. Its `Packages`, `Packages.gz`, and `Release` files are generated from the `.deb` in `debs/` and are served through GitHub’s public raw-content endpoint.
