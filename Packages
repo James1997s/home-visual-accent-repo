@@ -23,3 +23,45 @@ Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated l
 Author: Manus AI
 Name: Home Visual Accent
 
+Package: com.manus.retro3dglyphs.blue
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 4720
+Depends: firmware (>= 15.6), com.spark.snowboard
+Filename: debs/com.manus.retro3dglyphs.blue_1.0.0_iphoneos-arm64.deb
+Size: 1738046
+MD5sum: 99e5c1e04659386c646756aabaa002bb
+SHA1: 797bbdbdf6138ce538eb31a38dce0ba382fa6bfa
+SHA256: 49ca5175c014b32a92eedfd8262b06e30a43cd8b6dcefebef9c84effa3b804bd
+Section: Themes
+Priority: optional
+Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
+ Retro 3D Neon Blue Glyphs provides individually mapped transparent neon glyphs for iOS 15
+ system applications, popular third-party apps, jailbreak utilities, and user-provided
+ bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
+ without an icon background tile.
+Author: Manus AI
+Name: Retro 3D Neon Blue Glyphs
+
+Package: com.manus.retro3dglyphs.red
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 4800
+Depends: firmware (>= 15.6), com.spark.snowboard
+Filename: debs/com.manus.retro3dglyphs.red_1.0.0_iphoneos-arm64.deb
+Size: 1801932
+MD5sum: 009bfdcd505560b9c13eb104a6c87981
+SHA1: 116cc818b90e038b9a43242b33075b542565d85c
+SHA256: 0dd4223ee3a6f46703eb23e7843e48b274a9b3ab659e1765213fc4a58923d876
+Section: Themes
+Priority: optional
+Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
+ Retro 3D Neon Red Glyphs provides individually mapped transparent neon glyphs for iOS 15
+ system applications, popular third-party apps, jailbreak utilities, and user-provided
+ bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
+ without an icon background tile.
+Author: Manus AI
+Name: Retro 3D Neon Red Glyphs
+
