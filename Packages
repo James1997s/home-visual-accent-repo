@@ -8,13 +8,13 @@ Depends: firmware (>= 15.0), ellekit, preferenceloader
 Replaces: com.example.lockplus15
 Conflicts: com.example.lockplus15
 Architecture: iphoneos-arm64
-Version: 0.1.0-4+debug
+Version: 0.1.0-5+debug
 Installed-Size: 480
-Filename: debs/com.example.speciallock_0.1.0-4+debug_iphoneos-arm64.deb
-Size: 84994
-MD5sum: 463d7f12e8822f4f6fd9f4b56490cbdb
-SHA1: 7067bb273de878308cbe5be3dd97dcc9cd574541
-SHA256: 39642c16a7988588eb55d82d762cdfb0ebbe4486e25b2acc75f681c40f27013c
+Filename: debs/com.example.speciallock_0.1.0-5+debug_iphoneos-arm64.deb
+Size: 85698
+MD5sum: 1c8ef52a96a80cc0ea722e7a41927b12
+SHA1: a9987a061d836a8a5c49abb436e172e60502b7aa
+SHA256: 636e085ea593ce99d8d4e97ba8184baf9121a3fd479d2f22c643fdb0b4fff100
 
 Package: com.manus.homevisualaccent
 Name: Home Visual Accent
