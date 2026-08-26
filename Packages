@@ -65,3 +65,20 @@ Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
 Author: Manus AI
 Name: Retro 3D Neon Red Glyphs
 
+Package: com.example.speciallock
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Local Build
+Installed-Size: 456
+Depends: firmware (>= 15.0), ellekit, preferenceloader
+Filename: debs/com.example.speciallock_0.1.0-1+debug_iphoneos-arm64.deb
+Size: 78322
+MD5sum: 0c10cabd4d3e3867952be6b711eb494d
+SHA1: 21d33e593012364b0545896c6ccfad50a5052e51
+SHA256: e305b32729fd6e9354ef668d7b379b36f1b262d62cb15fee79a49970435a89fd
+Section: Tweaks
+Priority: optional
+Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
+Author: Local Build
+Name: SpecialLock
+
