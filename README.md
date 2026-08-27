@@ -19,6 +19,7 @@ Refresh the source, then search for **Home Visual Accent** and install or upgrad
 | Package | Version | Architecture | Notes |
 |---|---:|---|---|
 | `com.manus.homevisualaccent` | 1.5.6 | `iphoneos-arm64` | Rootless iOS 15.6+; visual tweak, clock, HUDs, and Lock Runner |
+| `com.example.speciallock` | 0.1.0-58+debug | `iphoneos-arm64` | Rootless iOS 15; live HTML lock-screen themes for Dopamine/ElleKit |
 | `com.manus.retro3dglyphs.red` | 1.0.0 | `iphoneos-arm64` | Transparent multi-colour red, amber, and magenta retro 3D neon glyph theme |
 | `com.manus.retro3dglyphs.blue` | 1.0.0 | `iphoneos-arm64` | Transparent multi-colour cyan, blue, and violet retro 3D neon glyph theme |
 
