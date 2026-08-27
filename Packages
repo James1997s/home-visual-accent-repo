@@ -1,371 +1,85 @@
 Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
+Version: 0.1.0-24+debug
 Architecture: iphoneos-arm64
-Version: 0.1.0-1+debug
-Installed-Size: 456
-Filename: debs/com.example.speciallock_0.1.0-1+debug_iphoneos-arm64.deb
-Size: 78322
-MD5sum: 0c10cabd4d3e3867952be6b711eb494d
-SHA256: e305b32729fd6e9354ef668d7b379b36f1b262d62cb15fee79a49970435a89fd
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
 Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
+Installed-Size: 416
 Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
 Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-11+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-11+debug_iphoneos-arm64.deb
-Size: 99508
-MD5sum: bedf0618fad641c156cebe349e47568a
-SHA256: 046d4d1218e248492051489e9de2159f9d2ea01d19cc7adb5e4309523d7bad22
-
-Package: com.example.speciallock
-Name: SpecialLock
+Replaces: com.example.lockplus15
+Filename: debs/com.example.speciallock_0.1.0-24+debug_iphoneos-arm64.deb
+Size: 80106
+MD5sum: cd62c1d53113747f1697f5e2dd2027db
+SHA1: 7967ca875b54da90e98ee8a9df616956cdf9cf20
+SHA256: c3e13d47bdc9a251acd615d4e78b60f7bae680f97ec7bc3c3108c8f4fd60a960
+Section: Tweaks
 Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
 Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-12+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-12+debug_iphoneos-arm64.deb
-Size: 115638
-MD5sum: 8dd4911317774af2a22a77d8c6fbf050
-SHA256: 6bf46a73f812aac5adce2a89f44860b5ddfeb5c63f9d2b613e59486613ccb303
-
-Package: com.example.speciallock
 Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-13+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-13+debug_iphoneos-arm64.deb
-Size: 3405540
-MD5sum: 3bc8ff0bf2bb167e01d416c26b90895f
-SHA256: 84227a5c9f1f0a291791eb33171d09eadd8463091d8b186402c135af937cc5e0
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-14+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-14+debug_iphoneos-arm64.deb
-Size: 3405556
-MD5sum: 4b85537216db5c986a9be96021e1702b
-SHA256: df683868de60b7501cd3199330ded96625294f325a70c000370f8ef6caf4a52c
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-15+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-15+debug_iphoneos-arm64.deb
-Size: 3405726
-MD5sum: d1b155660ea7c8de50c3700b5b63eb27
-SHA256: 66e1387de6579b118e11b8eaac2f7337b2ffefa9e86643e7f8a8ad2349fc7cdc
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-16+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-16+debug_iphoneos-arm64.deb
-Size: 3405808
-MD5sum: baee169179c6e4b7a7428b9924fc2aa3
-SHA256: ff1361d3c82bee27c3f7a11777f5c91f96df02e0502bb7b41f9a70539539251e
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-17+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-17+debug_iphoneos-arm64.deb
-Size: 5409058
-MD5sum: 43b7ac3e2771922bf7fe856bf8fd73ec
-SHA256: c8f6624e2d0169fce2a18e08bcbc00866e6a2e7d3b773b97a011a558e1cabe45
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-18+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-18+debug_iphoneos-arm64.deb
-Size: 5409110
-MD5sum: 05fd37331ec1cf2df42facc13b34acaa
-SHA256: 9a60c5003ff6814c9eee79fdace8e0511f9734f406cf9de955f1645b580576ec
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-19+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-19+debug_iphoneos-arm64.deb
-Size: 5409174
-MD5sum: 10f609b830300eb3111218d6f9793d37
-SHA256: c26cbc70c25256a97e5cfdb260192ddcdfc5bdfa17bfc1100369895fa3161a58
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-20+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-20+debug_iphoneos-arm64.deb
-Size: 5414846
-MD5sum: c49820cafe0257519833ca8815c9a76b
-SHA256: 588e9b287a031367642b7de95a2e9f03f9adc4fe58fba21a3721f885763f99d0
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-21+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-21+debug_iphoneos-arm64.deb
-Size: 5415226
-MD5sum: d6b6ab114b6a47f24387012246c6fe27
-SHA256: c6a91ba869dfd4f3280f1eabc132f43c7ada6b830d7ffbcd059449d93fa2dda8
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-22+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-22+debug_iphoneos-arm64.deb
-Size: 5415340
-MD5sum: db06d91f4e99dd227d358dc923d97e85
-SHA256: a007bd1175e4321220f4a05713ecfd3f7486f430bb72e33c9a264aa8f3072748
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-23+debug
-Installed-Size: 520
-Filename: debs/com.example.speciallock_0.1.0-23+debug_iphoneos-arm64.deb
-Size: 5415380
-MD5sum: 46a74e31f1b10ad6a5d3374f894c52bf
-SHA256: 4ae8bd17ccd6181fbcbd2257a529da2b49b14be84e5c67d4b2dc5249134d6428
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-4+debug
-Installed-Size: 480
-Filename: debs/com.example.speciallock_0.1.0-4+debug_iphoneos-arm64.deb
-Size: 84994
-MD5sum: 463d7f12e8822f4f6fd9f4b56490cbdb
-SHA256: 39642c16a7988588eb55d82d762cdfb0ebbe4486e25b2acc75f681c40f27013c
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-5+debug
-Installed-Size: 480
-Filename: debs/com.example.speciallock_0.1.0-5+debug_iphoneos-arm64.deb
-Size: 85698
-MD5sum: 1c8ef52a96a80cc0ea722e7a41927b12
-SHA256: 636e085ea593ce99d8d4e97ba8184baf9121a3fd479d2f22c643fdb0b4fff100
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-6+debug
-Installed-Size: 480
-Filename: debs/com.example.speciallock_0.1.0-6+debug_iphoneos-arm64.deb
-Size: 86258
-MD5sum: a7035dac93dbe741ea2ee03b1c61a473
-SHA256: c962673f63f14a0018da9dfa1aa11fecd3b8166b092848b0e74e9edb4aece2ea
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-8+debug
-Installed-Size: 500
-Filename: debs/com.example.speciallock_0.1.0-8+debug_iphoneos-arm64.deb
-Size: 93738
-MD5sum: ca3a13818b3522116dcd1daa56c9c646
-SHA256: c4924ce8770c747d0747e6058b2e362b4a9c50fef8501d9846a5f3abb65e3077
-
-Package: com.example.speciallock
-Name: SpecialLock
-Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
-Maintainer: Local Build
-Author: Local Build
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit, preferenceloader
-Replaces: com.example.lockplus15
-Conflicts: com.example.lockplus15
-Architecture: iphoneos-arm64
-Version: 0.1.0-9+debug
-Installed-Size: 500
-Filename: debs/com.example.speciallock_0.1.0-9+debug_iphoneos-arm64.deb
-Size: 95144
-MD5sum: 5b82770d0a06d2a78587ce9930f9edc8
-SHA256: d08ed67e4c6da35742950670f28a129f02a997fc00ebd1fd7ab08ade3f23c5cd
 
 Package: com.manus.homevisualaccent
-Name: Home Visual Accent
+Version: 1.5.6
+Architecture: iphoneos-arm64
 Maintainer: Manus AI
-Author: Manus AI
-Section: Tweaks
-Priority: optional
-Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated lock-screen runner, dock, status bar, and lock-screen clock\n Home Visual Accent provides a configurable PC-style dock, white status-bar styling,\n flat Control Centre glyph assets, monochrome Nothing Snow Leopard icons, a white-first\n high-contrast SnowBoard UI asset set, creative volume and silent-mode HUDs, an opt-in\n lower-half lock-screen runner with persistent best-score tracking and a SpringBoard\n idle-timer assertion active only during a run, concrete passcode keypad gating, and\n cover-sheet-dismissal teardown, plus a minimal iOS 15 lock-screen clock overlay. Live\n Control Center restyling is intentionally omitted for iOS 15.8.6 compatibility.
+Installed-Size: 6328
 Depends: firmware (>= 15.6), mobilesubstrate, preferenceloader, com.spark.snowboard, com.spark.snowboard.ui
 Recommends: com.spark.snowboard.statusbar
-Architecture: iphoneos-arm64
-Version: 1.5.6
-Installed-Size: 6328
 Filename: debs/com.manus.homevisualaccent_1.5.6_iphoneos-arm64.deb
 Size: 3942300
 MD5sum: 3eac6d0f29359c40f36d2df3f3244cdd
+SHA1: 78f1d73a1a3a957d74ecaf2b15a6174373ad74a7
 SHA256: 4409b3d1ba09e6b4c6f05b6109c2e66aaf56ad94ea91eccfd1ed9d4ac5288693
+Section: Tweaks
+Priority: optional
+Description: Nothing-inspired SnowBoard UI, creative HUDs, scored keypad-gated lock-screen runner, dock, status bar, and lock-screen clock
+ Home Visual Accent provides a configurable PC-style dock, white status-bar styling,
+ flat Control Centre glyph assets, monochrome Nothing Snow Leopard icons, a white-first
+ high-contrast SnowBoard UI asset set, creative volume and silent-mode HUDs, an opt-in
+ lower-half lock-screen runner with persistent best-score tracking and a SpringBoard
+ idle-timer assertion active only during a run, concrete passcode keypad gating, and
+ cover-sheet-dismissal teardown, plus a minimal iOS 15 lock-screen clock overlay. Live
+ Control Center restyling is intentionally omitted for iOS 15.8.6 compatibility.
+Author: Manus AI
+Name: Home Visual Accent
 
 Package: com.manus.retro3dglyphs.blue
-Name: Retro 3D Neon Blue Glyphs
-Maintainer: Manus AI
-Author: Manus AI
-Section: Themes
-Priority: optional
-Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme\n Retro 3D Neon Blue Glyphs provides individually mapped transparent neon glyphs for iOS 15\n system applications, popular third-party apps, jailbreak utilities, and user-provided\n bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow\n without an icon background tile.
-Depends: firmware (>= 15.6), com.spark.snowboard
-Architecture: iphoneos-arm64
 Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
 Installed-Size: 4720
+Depends: firmware (>= 15.6), com.spark.snowboard
 Filename: debs/com.manus.retro3dglyphs.blue_1.0.0_iphoneos-arm64.deb
 Size: 1738046
 MD5sum: 99e5c1e04659386c646756aabaa002bb
+SHA1: 797bbdbdf6138ce538eb31a38dce0ba382fa6bfa
 SHA256: 49ca5175c014b32a92eedfd8262b06e30a43cd8b6dcefebef9c84effa3b804bd
-
-Package: com.manus.retro3dglyphs.red
-Name: Retro 3D Neon Red Glyphs
-Maintainer: Manus AI
-Author: Manus AI
 Section: Themes
 Priority: optional
-Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme\n Retro 3D Neon Red Glyphs provides individually mapped transparent neon glyphs for iOS 15\n system applications, popular third-party apps, jailbreak utilities, and user-provided\n bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow\n without an icon background tile.
-Depends: firmware (>= 15.6), com.spark.snowboard
-Architecture: iphoneos-arm64
+Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
+ Retro 3D Neon Blue Glyphs provides individually mapped transparent neon glyphs for iOS 15
+ system applications, popular third-party apps, jailbreak utilities, and user-provided
+ bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
+ without an icon background tile.
+Author: Manus AI
+Name: Retro 3D Neon Blue Glyphs
+
+Package: com.manus.retro3dglyphs.red
 Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
 Installed-Size: 4800
+Depends: firmware (>= 15.6), com.spark.snowboard
 Filename: debs/com.manus.retro3dglyphs.red_1.0.0_iphoneos-arm64.deb
 Size: 1801932
 MD5sum: 009bfdcd505560b9c13eb104a6c87981
+SHA1: 116cc818b90e038b9a43242b33075b542565d85c
 SHA256: 0dd4223ee3a6f46703eb23e7843e48b274a9b3ab659e1765213fc4a58923d876
+Section: Themes
+Priority: optional
+Description: Background-free multi-colour retro 3D neon SnowBoard glyph theme
+ Retro 3D Neon Red Glyphs provides individually mapped transparent neon glyphs for iOS 15
+ system applications, popular third-party apps, jailbreak utilities, and user-provided
+ bundle IDs. Every glyph has a multi-colour neon face, offset 3D extrusion, and glow
+ without an icon background tile.
+Author: Manus AI
+Name: Retro 3D Neon Red Glyphs
+
