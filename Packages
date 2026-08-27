@@ -1,16 +1,16 @@
 Package: com.example.speciallock
-Version: 0.1.0-33+debug
+Version: 0.1.0-34+debug
 Architecture: iphoneos-arm64
 Maintainer: Local Build
 Installed-Size: 416
 Depends: firmware (>= 15.0), ellekit, preferenceloader
 Conflicts: com.example.lockplus15
 Replaces: com.example.lockplus15
-Filename: debs/com.example.speciallock_0.1.0-33+debug_iphoneos-arm64.deb
-Size: 80826
-MD5sum: 75cd1eb5cf345f4a114e6632adaef5d3
-SHA1: a860198b11679e85aeaaf412bcd2b7afe9b99f86
-SHA256: 1ee46b01955e6e536f014f5f2d05ed2f1e421c5ad50953053d40a85f58895150
+Filename: debs/com.example.speciallock_0.1.0-34+debug_iphoneos-arm64.deb
+Size: 82860
+MD5sum: 0e8ed155eab7a132f56fa771a72382cb
+SHA1: d0ccfc26cf888246cbd2cbca1d23996f02891468
+SHA256: 0089e4a998049d0dd60aac1cad3f59e55c3e08cb90792fc0f8b1c2bad1f83544
 Section: Tweaks
 Description: Visual-only SpecialLock themes for iOS 15 rootless Dopamine and ElleKit.
 Author: Local Build

@@ -7,8 +7,8 @@ Architectures: iphoneos-arm64
 Components:
 Description: Home Visual Accent rootless iOS tweak and theme repository
 MD5Sum:
- 0c59b30d6800b93d32cae7494c78f9ee  3718 Packages
- 6b220da9dd6fbcbdf5e35c71b1e112e0  1542 Packages.gz
+ af1ad162acc83dc50aebc5d66b5dbafd  3718 Packages
+ d2fd4124d1e2355661ee0bf22d86c6ca  1539 Packages.gz
 SHA256:
- b08bcc938de96ceaf4d60abc932791125c9805a0ca2679ff853d07a844e33443  3718 Packages
- 1be6ca1ee8c08228fe728bd4fcab21cff00a5ed142975e20bb50054871f9f5cb  1542 Packages.gz
+ 325f1a53d63d8c470615593c0b50a0c34bdfcb9efa7a9ae88f20f76f7641d5f2  3718 Packages
+ 70746066aa4b16d947053464d7b2f9df615e5ce904790face7bd99fcb44c650e  1539 Packages.gz
